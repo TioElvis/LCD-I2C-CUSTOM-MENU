@@ -1,0 +1,19 @@
+{
+  "name": "LiquidMenu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VaSe7u/LiquidMenu"
+  },
+  "version": "1.6.0",
+  "frameworks": "arduino",
+  "platforms": ["avr"],
+  "authors": [
+    {
+      "name": "Vasil Kalchev",
+      "email": "vase7u@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "headers": "LiquidMenu.h",
+  "depends": ["LiquidCrystal"]
+}
